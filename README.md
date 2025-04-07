@@ -1,0 +1,1 @@
+Öğrencilerin bilgilerini saklamak için basit bir öğrenci kayıt sistemidir. Bu sistemde, her öğrencinin adı, soyadı ve öğrenci numarası gibi bilgilerini saklamak için Java Records kullanılmıştır.
